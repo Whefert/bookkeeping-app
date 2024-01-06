@@ -5,7 +5,7 @@ Desktop GUI Bookkeeping application that allows users to register, login, add ne
 
 ## Acceptance Criteria
 -	Allow users to login and register an account
--	Create, read, update and delete client accounts for management
+-	Create, read, and delete client accounts for management
 -	Create, read, update and delete payables records for each client account
 -	Create, read, update and delete receivables records for each client account
 -	Store all data in SQLite database for persistence
