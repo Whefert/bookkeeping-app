@@ -3,6 +3,10 @@
 ## Description
 Desktop GUI Bookkeeping application that allows users to register, login, add new clients as well as receivable and payable records for those clients. 
 
+See screenshot from application below:
+
+![](/images/Login.png)
+
 ## Acceptance Criteria
 -	Allow users to login and register an account
 -	Create, read, and delete client accounts for management
