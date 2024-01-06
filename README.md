@@ -18,3 +18,7 @@ N/A
 
 ## Credits
 -	Tkinter
+
+## License
+
+Please refer to the LICENSE in the repo.
